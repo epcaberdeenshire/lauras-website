@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EPC Aberdeenshire",
-    "currentPage": "contact-us.html",
+    "currentPage": "faq.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -528,7 +528,7 @@
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1920.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -538,7 +538,7 @@
             },
             "overlay": true,
             "overlayColor": "#ececec",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.8"
           },
           "title": "FAQ",
           "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseOne_2\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>I'm selling my house, do I need an EPC?</a>",
