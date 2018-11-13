@@ -817,6 +817,18 @@ h6,
 #menu-e .dropdown-item[aria-expanded="true"] {
   color: #7e9b9f!important;
 }
+#content1-3 P {
+  font-size: 22px;
+}
+#extFeatures3-5 .mbr-iconfont-features4 {
+  color: #7e9b9f !important;
+}
+#extFeatures3-5 .wraper {
+  border-color: #7e9b9f !important;
+}
+#extFeatures3-5 P {
+  color: #7e9b9f;
+}
 #social-buttons4-h .mbr-section-title,
 #social-buttons4-h .btn-social {
   color: #fff;
