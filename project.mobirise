@@ -620,7 +620,7 @@
               "name": "paper-plane",
               "family": "Mobirise2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#c39f76"
             }
@@ -632,9 +632,10 @@
               "name": "laptop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "book-a-visit.html",
               "size": 0,
-              "color": "#c39f76"
+              "color": "#c39f76",
+              "newWindow": false
             }
           },
           "media4": {
