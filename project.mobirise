@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "EPC Aberdeenshire",
-    "currentPage": "faq.html",
+    "currentPage": "inspection-checklist.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
         "primaryColor": "#7e9b9f",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
+        "secondaryColor": "#475577",
+        "successColor": "#475577",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
@@ -21,13 +21,14 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#ececec"
+        "#ececec",
+        "#d7d0d0"
       ]
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.8",
-    "uniqCompNum": 7,
+    "uniqCompNum": 11,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -113,7 +114,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "0.6",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor"
@@ -134,7 +135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"epc-explained.html\">EPC's EXPLAINED</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">Explanation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\" aria-expanded=\"false\">Pre Visit Checklist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\" aria-expanded=\"false\">Certificate Explained</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -411,7 +412,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -433,10 +434,10 @@
               "color": "#7e9b9f"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -477,7 +478,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "0.6",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor"
@@ -498,7 +499,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"epc-explained.html\">EPC's EXPLAINED</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">Explanation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\" aria-expanded=\"false\">Pre Visit Checklist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\" aria-expanded=\"false\">Certificate Explained</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -538,27 +539,67 @@
             },
             "overlay": true,
             "overlayColor": "#ececec",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.9"
           },
           "title": "FAQ",
-          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseOne_2\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>I'm selling my house, do I need an EPC?</a>",
-          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseTwo_2\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">I'm a Landlord, do I need an EPC?</a>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseThree_2\" aria-expanded=\"true\" aria-controls=\"collapseThree\">I own my house and not thinking of selling or renting, do I need an EPC?</a>",
-          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseFour_2\" aria-expanded=\"true\" aria-controls=\"collapseFour\">I have an old EPC but I have had improvemets done to my house, can my EPC be updated?</a>",
-          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseFive_2\" aria-expanded=\"true\" aria-controls=\"collapseFive\">What are your qualifications?</a>",
-          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseSix_2\" aria-expanded=\"true\" aria-controls=\"collapseSix\">I &nbsp;need an EPC but I'm at work all day</a>",
-          "text1": "<p>Yes you do! Your Agent may offer you this service. Check on how much it will cost, even if they say 'Oh, we only charge you what we get charged'. That's fine but sometimes the Agent get's charged too much. It can pay to shop around.</p>",
-          "text2": "<p>Yes you do! If you use an Agent, they may offer you this service. Check on how much it will cost, even if they say 'Oh, we only charge you what we get charged' That's fine but sometimes the Agent get's charged too much. It can pay to shop around.</p>",
-          "text3": "<p>No you don't BUT having an EPC carried out on your property can point out areas where efficiency can be improved and thus save you money&nbsp;</p>",
-          "text4": "<p>A new EPC test would have to be done. This is a 'must' if you're selling or renting even if your old EPC is still in date. House Hunters will look at ???? and will not be aware of the improvements.</p>",
-          "text5": "<p>I have been a fully qualified and accredited Domestic Energy Assessor (DEA) and Green Deal Advisor (GDA) since 2014. I am insured and accredited though Elmhurst Energy and I am Disclosure Scotland registered.</p>",
-          "text6": "<p>Not a problem, I can come to you on a Saturday!&nbsp;</p>",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseOne_2\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span><b>I'm selling my house, do I need an EPC?</b></a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseTwo_2\" aria-expanded=\"true\" aria-controls=\"collapseTwo\"><b>I'm a Landlord, do I need an EPC?</b></a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseThree_2\" aria-expanded=\"true\" aria-controls=\"collapseThree\"><b>I own my house and not thinking of selling or renting, do I need an EPC?</b></a>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseFour_2\" aria-expanded=\"true\" aria-controls=\"collapseFour\"><b>I have an old EPC but I have had improvemets done to my house, can my EPC be updated?</b></a>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseFive_2\" aria-expanded=\"true\" aria-controls=\"collapseFive\"><b>What are your qualifications?</b></a>",
+          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseSix_2\" aria-expanded=\"true\" aria-controls=\"collapseSix\"><b>I &nbsp;need an EPC but I'm at work all day</b></a>",
+          "text1": "<p><b>Yes you do! Your Agent may offer you this service. Check on how much it will cost, even if they say 'Oh, we only charge you what we get charged'. That's fine but sometimes the Agent get's charged too much. It can pay to shop around.</b></p>",
+          "text2": "<p><b>Yes you do! If you use an Agent, they may offer you this service. Check on how much it will cost, even if they say 'Oh, we only charge you what we get charged' That's fine but sometimes the Agent get's charged too much. It can pay to shop around.</b></p>",
+          "text3": "<p><b>No you don't BUT having an EPC carried out on your property can point out areas where efficiency can be improved and thus save you money&nbsp;</b></p>",
+          "text4": "<p><b>A new EPC test would have to be done. This is a 'must' if you're selling or renting even if your old EPC is still in date. House Hunters will look at ???? and will not be aware of the improvements.</b></p>",
+          "text5": "<p><b>I have been a fully qualified and accredited Domestic Energy Assessor (DEA) and Green Deal Advisor (GDA) since 2014. I am insured and accredited though Elmhurst Energy and I am Disclosure Scotland registered.</b></p>",
+          "text6": "<p><b>Not a problem, I can come to you on a Saturday!&nbsp;</b></p>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
           "_name": "extAccordion1",
           "_anchor": "extAccordion1-2"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "collapseAll": false,
+            "tabs": "5",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#d7d0d0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Yours for comparison",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_32\" data-core=\"\" href=\"#collapseOne_32\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span><b>What is an EPC?</b></a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_32\" data-core=\"\" href=\"#collapseTwo_32\" aria-expanded=\"false\" aria-controls=\"collapseTwo\"><b>Is it a legal requirement to have an EPC?</b></a>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_32\" data-core=\"\" href=\"#collapseThree_32\" aria-expanded=\"false\" aria-controls=\"collapseThree\"><b>How long is an EPC certificate valid for ?</b></a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_32\" data-core=\"\" href=\"#collapseFour_32\" aria-expanded=\"false\" aria-controls=\"collapseFour\"><b>What are the recent changes to EPC requirements?</b></a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_32\" data-core=\"\" href=\"#collapseFive_32\" aria-expanded=\"false\" aria-controls=\"collapseFive\"></a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>It’s a legal requirement to get an EPC every time you buy, sell or rent a property. The EPC shows you the estimated heating, lighting and hot water costs, and carbon emissions released over three years. The EPC gives you recommendations about how you can reduce energy use and costs. With an EPC you can compare the energy efficiency ratings of homes across the UK.</p>",
+          "text2": "Yes, since 2009 in Scotland is it law that an EPC is every time a home is put up for sale or rent an EPC must be provided.",
+          "text3": "An EPC is valid for 10 years and can be used multiple times during this period. However the EPC has to accurately reflect the condition of your property at the time therefore if you have had construction work or made improvements to the heating, windows or insulation it would be advisable to get a new EPC done.",
+          "text4": "From 1 April 2018 there will be a requirement for new lets and renewals of properties rented out in the private sector to have a minimum energy efficiency rating of E on an EPC. From 1 April 2020 the minimum standard of an energy efficiency rating of E on an EPC will apply to all existing tenancies. It will be unlawful to rent a property which breaches the requirement for a minimum E rating, unless there is an applicable exemption. Refer to the Energy Performance of Buildings (England and Wales) Regulations 2012 and Energy Performance of Buildings (Scotland) Regulations 2008 for detailed information.\n<div>This is not law in Scotland yet, the government is in discussions over it</div>",
+          "text5": "<p><br></p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-8"
         },
         {
           "_params": {
@@ -725,7 +766,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -791,7 +832,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "0.6",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor"
@@ -812,7 +853,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"epc-explained.html\">EPC's EXPLAINED</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">Explanation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\" aria-expanded=\"false\">Pre Visit Checklist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\" aria-expanded=\"false\">Certificate Explained</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1038,7 +1079,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1113,7 +1154,7 @@
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
           "formSubtitle": "I understand that the information I have given will only be used in connection with this enquiry.",
-          "title": "Need More Help?",
+          "title": "Book A Visit",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -1136,10 +1177,10 @@
               "color": "#7e9b9f"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1180,7 +1221,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "0.6",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor"
@@ -1201,7 +1242,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"epc-explained.html\">EPC's EXPLAINED</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">Explanation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\" aria-expanded=\"false\">Pre Visit Checklist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\" aria-expanded=\"false\">Certificate Explained</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1262,7 +1303,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1284,10 +1325,10 @@
               "color": "#7e9b9f"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1328,7 +1369,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "0.6",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor"
@@ -1349,7 +1390,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"epc-explained.html\">EPC's EXPLAINED</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">Explanation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\" aria-expanded=\"false\">Pre Visit Checklist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\" aria-expanded=\"false\">Certificate Explained</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1462,6 +1503,121 @@
           },
           "text": "Follow us on Facebook",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+        }
+      ]
+    },
+    "inspection-checklist.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Pre Inspection Checklist",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#7e9b9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#7e9b9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#7e9b9f"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#7e9b9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7e9b9f!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#7e9b9f",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x787.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">Explanation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\" aria-expanded=\"false\">Pre Visit Checklist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\" aria-expanded=\"false\">Certificate Explained</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-9"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy<br>",
+          "_anchor": "footer1-a"
         }
       ]
     }
