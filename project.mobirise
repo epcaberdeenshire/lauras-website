@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EPC Aberdeenshire",
-    "currentPage": "index.html",
+    "currentPage": "inspection-checklist.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -894,7 +894,7 @@
             "paddingTop": 3,
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert2.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -2465,7 +2465,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1340.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
