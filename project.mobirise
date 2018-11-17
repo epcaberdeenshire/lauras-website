@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EPC Aberdeenshire",
-    "currentPage": "epc-explained.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -232,7 +232,7 @@
           },
           "title": "What is an EPC?",
           "text": "An Energy Performance Certificate (EPC) is a document that calculates the energy performance of a home.\n<br>\n<br>The EPC details energy use, carbon dioxide emissions and fuel costs of the home. It is measured on a scale from A to G, with A being the most efficient and G the least efficient. It is the Energy Efficiency (EE) rating that’ll be used to make sure all our houses and flats meet the Energy Efficiency Standard for Social Housing by December 2020.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EPC'S EXPLAINED</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"epc-explained.html\" data-toolbar=\"-mbrBtnMove\">EPC'S EXPLAINED</a>"
         },
         {
           "_tags": [
@@ -289,7 +289,7 @@
           },
           "title": "Fine Tune Your Home",
           "text": "Even if you're not thinking of selling or renting your home, an EPC can help you determine where you can save energy and ultimatley, save on bills. Changing your energy supplier may help to cut bills but doesn't solve the initial problems. An EPC can point you in the right direction to start making you home more efficient.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK AN VISIT</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK A VISIT</a>"
         },
         {
           "_tags": [
