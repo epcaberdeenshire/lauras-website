@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EPC Aberdeenshire",
-    "currentPage": "inspection-checklist.html",
+    "currentPage": "contact-us.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1884,7 +1884,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showFormTitle": true,
             "showFormSubtitle": true,
             "inverse": false,
@@ -1902,7 +1902,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.9"
           },
-          "formTitle": "Get In Touch",
+          "formTitle": "EPC Booking Form",
           "form": {
             "action": "lauraforbes2@gmail.com",
             "alerts": {
@@ -1934,8 +1934,8 @@
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
           "formSubtitle": "I understand that the information I have given will only be used in connection with this enquiry.",
           "title": "Book A Visit",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "If you need an EPC and would like to arrange a visit, please fill in the following form. I will then contact you to book a conveinient time to visit.<br>Should you wish to contact me for further information before you book a visit, you will find my contact details here",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">CONTACT INFO</a>"
         },
         {
           "_styles": {
@@ -2094,7 +2094,7 @@
             "showIcons": true,
             "showForm": true,
             "inverse": false,
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/37555278-s-747x641.jpg",
@@ -2465,7 +2465,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1340.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/14050693-m-2000x1500.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2475,10 +2475,10 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.7"
           },
           "title": "Preparing for an EPC",
-          "caption": "<p>Preparing for your EPC.\n</p><p>\n</p><p>Here are some tips to prepare for your EPC assessment.\n</p><p>\n</p><p>Ensure all the lightbulbs in your property are Energy saving bulbs.\n</p><p>\n</p><p>If you have had home improvements done, for example new windows, extensions, heating systems or insulation have the documentation ready for the assessor. If your double glazed windows were fitted after 2002 and the date is not visible in the units, please have paperwork available to show the installation date.\n</p><p>\n</p><p>Insulation makes a significant difference to the Energy rating. An assessor has to grade the property with what insulation they can see therefore, for example, if the loft is not accessible but it has been insulated the property will achieve a better energy rating if you can provide evidence. The same applies to cavity wall insulation, if it has rendering covering it, have paperwork ready for the assessor.\n</p><p>\n</p><p>Ensure that if you have a hot water tank that there is plenty of insulation around it. \n</p><p>\n</p><p>We try to establish the exact make and model of the oil or gas boiler. Where this is possible, the exact efficiency of the boiler can be established. This is likely to be higher than the default software setting for that type of boiler.Establishing the boilers details from visual inspection can be difficult, so please have any information manuals or service history available for the assessor. \n</p><p><br></p>",
+          "caption": "<p><span style=\"font-size: 1.07rem;\">Here are some tips to prepare for your EPC assessment.</span><br></p><p>\n</p><p>Ensure all the lightbulbs in your property are Energy saving bulbs.\n</p><p>\n</p><p>If you have had home improvements done, for example new windows, extensions, heating systems or insulation have the documentation ready for the assessor. If your double glazed windows were fitted after 2002 and the date is not visible in the units, please have paperwork available to show the installation date.\n</p><p>\n</p><p>Insulation makes a significant difference to the Energy rating. An assessor has to grade the property with what insulation they can see therefore, for example, if the loft is not accessible but it has been insulated the property will achieve a better energy rating if you can provide evidence. The same applies to cavity wall insulation, if it has rendering covering it, have paperwork ready for the assessor.\n</p><p>\n</p><p>Ensure that if you have a hot water tank that there is plenty of insulation around it. \n</p><p>\n</p><p>We try to establish the exact make and model of the oil or gas boiler. Where this is possible, the exact efficiency of the boiler can be established. This is likely to be higher than the default software setting for that type of boiler.Establishing the boilers details from visual inspection can be difficult, so please have any information manuals or service history available for the assessor. \n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
