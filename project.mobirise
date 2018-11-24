@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EPC Aberdeenshire",
-    "currentPage": "inspection-checklist.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.8",
-    "uniqCompNum": 51,
+    "uniqCompNum": 57,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -135,7 +135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -290,6 +290,93 @@
           "title": "Fine Tune Your Home",
           "text": "Even if you're not thinking of selling or renting your home, an EPC can help you determine where you can save energy and ultimatley, save on bills. Changing your energy supplier may help to cut bills but doesn't solve the initial problems. An EPC can point you in the right direction to start making you home more efficient.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK A VISIT</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "30px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle DIV": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "LANDLORDS",
+          "text": "<span style=\"font-style: normal;\">Landlords, you must have an EPC in place if you wish to lease out your property.</span><br><span style=\"font-style: normal;\"><br>There are new regulations being consulted on in Parliament which are already in force in England which have a big impact on private landlords.<br></span><br><span style=\"font-style: normal;\">All private tenants have the right to request improved energy efficiency improvements. Also it is against the law lease a property below an EPC rating of E. There are huge fines in force who those landlords that do not comply. Click the button to download the Domestic MMES Guide for further information.<br></span><br><div>\n</div><div>\n</div><div>\n</div><div><span style=\"font-style: normal;\">Book your EPC now to give you time to make the required improvements!&nbsp;</span></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/Domestic%20MEES%20Guide%202018.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD PDF</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "30px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "HOUSE HEALTH CHECK",
+          "text": "<span style=\"font-style: normal;\">Homeowners, instead of just changing energy providers (it's so important to keep checking that you are on the right tariff to keep on top of our bills) we need get to the root of the problem. Make your home more energy efficient!</span><br><br><span style=\"font-style: normal;\"> \n</span><div><span style=\"font-style: normal;\">\n</span></div><div><span style=\"font-style: normal;\">\n</span></div><div><span style=\"font-style: normal;\">We provide a house health check and produce an Energy Performance Certificate to show what you can do to improve the comfort and energy efficiency of your home and reduce your energy bills. If you are thinking of making home improvements this can show the cost to install these measures and what your energy bill savings could be over a 3 year period.</span></div><br><div><span style=\"font-style: normal;\"> \n</span></div><div><span style=\"font-style: normal;\">\n</span></div><div><span style=\"font-style: normal;\">\n</span></div><div><span style=\"font-style: normal;\">The EPC gives you a list of energy efficiency measures specifically related to your property. They are listed in priority and gives a breakdown of what the measures cost and the savings you can make. These vary from inexpensive measures to higher cost technologies but we can point you in the right direction for grants and loans that may be available to homeowners through government initiatives.</span></div><br><div><span style=\"font-style: normal;\">\n</span></div><div><span style=\"font-style: normal;\">\n</span></div><div><span style=\"font-style: normal;\">\n</span></div><div><span style=\"font-style: normal;\">If you follow the recommendations it can also increase your property's value</span></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"book-a-visit.html\" data-toolbar=\"-mbrBtnMove\">BOOK A HEALTH CHECK NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1k"
         },
         {
           "_tags": [
@@ -499,7 +586,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -548,58 +635,51 @@
             "overlayOpacity": "0.9"
           },
           "title": "FAQ",
-          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseOne_2\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span><b>I'm selling my house, do I need an EPC?</b></a>",
-          "text1": "<p><b>Yes you do! Your Agent may offer you this service. Check on how much it will cost, even if they say 'Oh, we only charge you what we get charged'. That's fine but sometimes the Agent get's charged too much. It can pay to shop around.</b></p>",
-          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseTwo_2\" aria-expanded=\"true\" aria-controls=\"collapseTwo\"><b>I'm a Landlord, do I need an EPC?</b></a>",
-          "text2": "<p><b>Yes you do! If you use an Agent, they may offer you this service. Check on how much it will cost, even if they say 'Oh, we only charge you what we get charged' That's fine but sometimes the Agent get's charged too much. It can pay to shop around.</b></p>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseThree_2\" aria-expanded=\"true\" aria-controls=\"collapseThree\"><b>I own my house and not thinking of selling or renting, do I need an EPC?</b></a>",
-          "text3": "<p><b>No you don't BUT having an EPC carried out on your property can point out areas where efficiency can be improved and thus save you money&nbsp;</b></p>",
-          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseFour_2\" aria-expanded=\"true\" aria-controls=\"collapseFour\"><b>I have an old EPC but I have had improvemets done to my house, can my EPC be updated?</b></a>",
-          "text4": "<p><b>A new EPC test would have to be done. This is a 'must' if you're selling or renting even if your old EPC is still in date. House Hunters will look at ???? and will not be aware of the improvements.</b></p>",
-          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseFive_2\" aria-expanded=\"true\" aria-controls=\"collapseFive\"><b>What are your qualifications?</b></a>",
-          "text5": "<p><b>I have been a fully qualified and accredited Domestic Energy Assessor (DEA) and Green Deal Advisor (GDA) since 2014. I am insured and accredited though Elmhurst Energy and I am Disclosure Scotland registered.</b></p>",
-          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2\" data-core=\"\" href=\"#collapseSix_2\" aria-expanded=\"true\" aria-controls=\"collapseSix\"><b>I &nbsp;need an EPC but I'm at work all day</b></a>",
-          "text6": "<p><b>Not a problem, I can come to you on a Saturday!&nbsp;</b></p>"
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_42\" data-core=\"\" href=\"#collapseOne_42\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span><b>What is an EPC?</b></a>",
+          "text1": "<p><b>An Energy Performance Certificate is required by law when you build, sell or rent a property. It gives the property an energy efficiency rating and recommendations how to reduce energy, save money and increase your rating. It is valid for 10 years.</b></p>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_42\" data-core=\"\" href=\"#collapseTwo_42\" aria-expanded=\"true\" aria-controls=\"collapseTwo\"><b>What is involved?</b></a>",
+          "text2": "<p><b>You will need an accredited Domestic Energy Assessor to carry out your EPC. The assessment should take less than an hour. They will need access to all the rooms and the loft if possible. They take measurements, inside and outside the property, inspect heating systems and take photos of things like the boiler. The assessment is non invasive. The assessor then inputs all the data and produces an Energy Performance Certificate which is lodged on the central register.\r</b></p><p><b><br></b></p>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_42\" data-core=\"\" href=\"#collapseThree_42\" aria-expanded=\"true\" aria-controls=\"collapseThree\"><b>I'm a landlord, do I need an EPC?</b></a>",
+          "text3": "<p><b>Yes, you cannot lease out a property without an EPC. Check the cost of the company that your agent uses as they are often not very competitive.&nbsp;</b></p>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_42\" data-core=\"\" href=\"#collapseFour_42\" aria-expanded=\"true\" aria-controls=\"collapseFour\"><b>I have an old EPC but have made home improvements. Can it be updated?\n</b></a>",
+          "text4": "<p><b>A new EPC test would have to be done, This is a must if you're selling or renting even if you old EPC is still in date. You will improve your energy efficiency rating making the property much more appealing to house hunters.</b></p>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_42\" data-core=\"\" href=\"#collapseFive_42\" aria-expanded=\"true\" aria-controls=\"collapseFive\"><b>I own my house but am not thinking of buying, do I still need an EPC?</b></a>",
+          "text5": "<p><b>No you don't BUT having an EPC carried out on your property can point out areas where energy efficiency can be improved and thus save you money.</b></p>",
+          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_42\" data-core=\"\" href=\"#collapseSix_42\" aria-expanded=\"true\" aria-controls=\"collapseSix\"><b>What are your qualifications?</b></a>",
+          "text6": "<p><b>I have been a fully qualified and accredited Domestic Energy Assessor (DEA) since 2014. I am insured and accredited though Elmhurst Energy and I am Disclosure Scotland registered.  \r</b></p><p><b>\r</b></p><p><b><br></b></p>",
+          "_styles": {
+            "H1": {
+              "text-align": "left"
+            }
+          }
         },
         {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extAccordion1",
-          "_anchor": "extAccordion1-8",
-          "_params": {
-            "showTitle": true,
-            "collapseAll": false,
-            "tabs": "5",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#d7d0d0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "30px"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left",
+              "color": "#000000"
+            }
           },
-          "title": "Yours for comparison",
-          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_32\" data-core=\"\" href=\"#collapseOne_32\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span><b>What is an EPC?</b></a>",
-          "text1": "<p>It’s a legal requirement to get an EPC every time you buy, sell or rent a property. The EPC shows you the estimated heating, lighting and hot water costs, and carbon emissions released over three years. The EPC gives you recommendations about how you can reduce energy use and costs. With an EPC you can compare the energy efficiency ratings of homes across the UK.</p>",
-          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_32\" data-core=\"\" href=\"#collapseTwo_32\" aria-expanded=\"false\" aria-controls=\"collapseTwo\"><b>Is it a legal requirement to have an EPC?</b></a>",
-          "text2": "Yes, since 2009 in Scotland is it law that an EPC is every time a home is put up for sale or rent an EPC must be provided.",
-          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_32\" data-core=\"\" href=\"#collapseThree_32\" aria-expanded=\"false\" aria-controls=\"collapseThree\"><b>How long is an EPC certificate valid for ?</b></a>",
-          "text3": "An EPC is valid for 10 years and can be used multiple times during this period. However the EPC has to accurately reflect the condition of your property at the time therefore if you have had construction work or made improvements to the heating, windows or insulation it would be advisable to get a new EPC done.",
-          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_32\" data-core=\"\" href=\"#collapseFour_32\" aria-expanded=\"false\" aria-controls=\"collapseFour\"><b>What are the recent changes to EPC requirements?</b></a>",
-          "text4": "From 1 April 2018 there will be a requirement for new lets and renewals of properties rented out in the private sector to have a minimum energy efficiency rating of E on an EPC. From 1 April 2020 the minimum standard of an energy efficiency rating of E on an EPC will apply to all existing tenancies. It will be unlawful to rent a property which breaches the requirement for a minimum E rating, unless there is an applicable exemption. Refer to the Energy Performance of Buildings (England and Wales) Regulations 2012 and Energy Performance of Buildings (Scotland) Regulations 2008 for detailed information.\n<div>This is not law in Scotland yet, the government is in discussions over it</div>",
-          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_32\" data-core=\"\" href=\"#collapseFive_32\" aria-expanded=\"false\" aria-controls=\"collapseFive\"></a>",
-          "text5": "<p><br></p>",
-          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Pricing",
+          "meta": "<br>•\t1 to 2 bedrooms £60\n<br>•\t3 to 4 bedrooms £70\n<br>•\t5 or more bedrooms, please call me to discuss.&nbsp;<br><br>I cover Aberdeen City and Aberdeenshire. I will visit your property at a convenient time for you and once completed, email the Energy Performance Certificate within 24 hours. I will also send a copy to your specified leasing agent, solicitor or landlord if requested..\n<br>\n<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1i"
         },
         {
           "_tags": [
@@ -620,38 +700,17 @@
           "text": "<p>If you would like to book an EPC or need further information</p><p>please use any of the following</p>"
         },
         {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures3",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "@primaryColor !important"
-            },
-            ".wraper": {
-              "border-color": "@primaryColor !important"
-            },
-            "P": {
-              "color": "#7e9b9f"
-            },
-            "B": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "extFeatures3-5",
           "_params": {
             "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "columns": 3,
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "columns": "4",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures3_bg.jpg",
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures4_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -661,39 +720,32 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.6
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
               "name": "phone",
-              "link": "https://mobirise.com",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "",
               "size": 0,
-              "color": "#c39f76",
-              "family": "et-line"
+              "color": "#e6e6e6"
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<b>Telepone.<br>01234 1231234</b>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
               "name": "paper-plane",
-              "family": "Mobirise2",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#c39f76"
+              "color": "#e6e6e6"
             }
           },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "<b>email<br>laura@</b>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -701,31 +753,53 @@
               "name": "laptop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "book-a-visit.html",
+              "link": "",
               "size": 0,
-              "color": "#c39f76",
-              "newWindow": false
+              "color": "#e6e6e6"
             }
           },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b>Online form<br>Click on link above</b>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
               "size": 0,
-              "color": "#c39f76",
-              "family": "et-line"
+              "color": "#e6e6e6"
             }
           },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "title1": "Phone<br>01234 123 1234",
+          "subtitle1": "",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "email\r<div>laura@</div>",
+          "subtitle2": "",
+          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "Contact form\n<div><a href=\"contact-us.html\" class=\"text-success\">Here</a></div>",
+          "subtitle3": "",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "EPC booking form<br><a href=\"book-a-visit.html\" class=\"text-primary\">Here</a>",
+          "subtitle4": "",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures4",
+          "_anchor": "extFeatures4-1g",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
@@ -853,7 +927,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -886,6 +960,9 @@
             },
             "P": {
               "color": "#000000"
+            },
+            "DIV": {
+              "font-size": "17px"
             }
           },
           "_tags": [
@@ -912,7 +989,7 @@
             "overlayOpacity": 0.5
           },
           "title": "EPC's Explained",
-          "caption": "Whether it’s to buy or rent, if a home is on the market it needs an Energy Performance Certificate (EPC). For homeowners, getting one is also a good starting point to make your place more energy efficient. \n<div>\n</div><div>But in order to do that, you need to know what’s in the certificate – and how the information can lead to improvements around the house.</div><div><br></div><div>Starting from the beginning; what exactly are EPCs for? Well, they’re useful for two main things. \n</div><div>\n</div><div>Firstly, comparing properties to each other – something that can be very useful when looking to buy or rent a property. \n</div><div>\n</div><div>Then, understanding what improvements can be done, how much they will cost, and how much you can save. This can be useful when looking to improve your current property, or if you’re looking to buy and improve. \n</div><div>\n</div><div>Improving a home not only lowers bills and increases comfort, it can also increase its value.</div><div><br></div>"
+          "caption": "<p>An Energy Performance Certificate (EPC) is required in Scotland whenever a property is built, sold or is being rented out. It produces an energy efficiency rating, shows a property's energy use and typical costs and recommends how to reduce energy and save money.</p><p>Here we explain what information is shown on the EPC and break it down page by page to show what you can do to make improvements around the house to save money on your energy bills and make your home more energy efficient.</p><p><b>So what are EPC's for?</b></p><p>Their main purpose is to rate a property's performance in terms of energy use per square meter of floor area, rate the energy efficiency based on fuel costs and its environmental impact based on CO2 (carbon dioxide) emissions.</p><p>This must be carried out by an approved Domestic Energy Assessor who produces the Energy Performance Certificate.</p><p>The EPC shows your current energy efficiency rating and fuel costs and the potential rating and energy bill savings that could be made if the recommended energy efficiency measures are installed.</p><p>The EPC is colour coded from green to red. The green end of the scale shows that the property is very energy efficient with lower fuel running costs however the red end of the scale reports that the fuel running costs are higher and the property is not energy efficient.</p><p>The certificate you an understanding of what improvements can be done, how much they will cost, and how much you can save. This can be useful when looking to improve your current property, or if you’re looking to buy a property and  see what impact the recommended improvements could have. Improving the energy efficiency in a home not only lowers bills and increases comfort, it can also increase its value.</p><p>The information is very useful too when renting out a property too as regulations are changing.From 1st April 2016, tenants have the right to request energy efficiency improvements be made to the properties that they rent.</p><p>As from 1st April 2018, it is a legal requirement for properties being leased to have a minimum energy performance rating of E on an EPC. Landlords have to increase their energy efficiency rating or they will be unable to sign a new lease or grant a lease extension or renewal. There are huge fines applicable for failing to comply.  This is in force in England and the Scottish Government is in consultation to enforce Minimum Energy Efficiency Standards.</p><p><b><i>Getting an EPC done now gives landlords time to increase their energy efficiency rating before the new measures come into force.</i></b></p>"
         },
         {
           "_styles": {
@@ -971,7 +1048,7 @@
           "_name": "extFeatures8",
           "_anchor": "extFeatures8-13",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showSubtitle": true,
             "paddingTop": "1",
             "paddingBottom": 3,
@@ -1115,7 +1192,7 @@
             }
           },
           "title": "Page 1 - Current and potential energy costs",
-          "text": "The first page of your EPC starts with an estimate of the current and potential energy bills of the property. This is useful for knowing how much a new property will cost to run in energy bills, how much lower the running costs would be if the energy efficiency was improved. You should note – these costs are just for your heating, hot water and lighting. It doesn’t include any additional energy costs from your home appliances (such as the cost of running your fridge, oven, TV etc.), so in reality your energy bills will be a bit higher. However, the costs shown are really useful for comparing between properties, so you can see which building would be cheaper to run.\n<br>\n<br>In this case, as you can see, the potential savings add up to nearly £4,000 over three years in this three bedroom semi-detached house. Changes well worth making, it would seem.&nbsp;",
+          "text": "Page 1 of the EPC shows the estimated current and potential energy bills of your property. Is shows, if you made the recommended improvements, how much less your energy bills could be. It is important to remember though that these costs are just for heating, lighting and hot water. You will still have additional costs on your bills for your appliances, tv, computers and other day to day items that you use in the home.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1176,7 +1253,7 @@
             }
           },
           "title": "Energy efficiency rating",
-          "text": "Staying on the first page, the next thing you’ll see looks a lot like the energy labels you get on home appliances – and it is. It’s a good, quick visual comparison of property performance. There is a current energy efficiency rating on every EPC, with A being the best. Some EPCs also have a similar chart for the environmental performance of the property.\n<br>\n<br>It also shows the potential rating if all suggested improvements are carried out. In this example home there is the potential to jump from band F to B with energy efficiency upgrades.&nbsp;",
+          "text": "This page will be familiar to you as it is the same as the energy labels on your white goods. It shows the current energy efficiency rating (A is the best and G the worst) and it shows the potential rating that you could achieve if all the recommended energy efficiency improvements are made.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1237,7 +1314,7 @@
             }
           },
           "title": "Top actions",
-          "text": "Here is the summary of energy efficiency actions that can be taken, with the savings attached to each. Page one sticks to the biggest priorities, but these and the rest will be covered in more detail on page three of the EPC.",
+          "text": "This is a list of the top recommended energy efficiency measures that can be installed to make your property more energy efficient. It shows what the cost is to install these measures and the typical savings over 3 years. This page shows the measures that are priority however the full list of recommendations are shown on page 3 of the EPC.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1298,7 +1375,7 @@
             }
           },
           "title": "Page 2 - Performance",
-          "text": "On the next page, you’ll find a detailed breakdown of each element of the property with a description and an energy rating from one to five stars (five’s the best). It’s here to help you understand the construction, heating and hot water system, and lighting of the property. This can be especially useful for comparing to other properties when you’re looking to buy or rent.\n<br>\n<br>In the case of this property, it has an efficient heating system and some roof insulation, but there’s plenty of room for improvement.&nbsp;",
+          "text": "This page shows an assessment of the key elements of the property that have an impact on its performance rating. It describes each element such as construction, heating and windows and gives it a star rating dependent on how they perform on an energy efficiency and environmental scale. 5 star is very good and 1 star is very poor.\n<br><br>It is a good indicator on how the elements are performing and what you need to improve.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1359,7 +1436,7 @@
             }
           },
           "title": "Low carbon energy",
-          "text": "If the property has low or zero-carbon energy technology they will be listed here. The above image shows a property with both solar water heating and solar PV for renewable electricity generation. Such technologies can save on energy bills and benefit from government incentives.",
+          "text": "If a home has low or zero carbon energy technology such as solar PV or solar water heating then they will be shown here. These measures can benefit from government incentives and lower energy bills",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1420,7 +1497,7 @@
             }
           },
           "title": "Heat demand",
-          "text": "This section looks at how much heat the property is expected to use, and how that will be reduced by improving the insulation. \n<br>\n<br>It might not look very useful, but for those considering renewable heating options, this section is used to calculate Renewable Heat Incentive (RHI) payments.",
+          "text": "This part looks at the amount of heat that the property is expected to use and how improving the insulation will reduce this. It is useful for people considering a domestic renewable heating system as there is a Home Energy Scotland loan scheme open to homeowners interested in installing greener technologies.<br>Please see this link for further information. <a href=\"http://www.energysavingtrust.org.uk/scotland/grants-loans/renewables/loan-scheme\" target=\"_blank\">http://www.energysavingtrust.org.uk/scotland/grants-loans/renewables/loan-scheme</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1481,7 +1558,7 @@
             }
           },
           "title": "Page 3 - Improvements",
-          "text": "Now we arrive at perhaps the most important section of the EPC: the recommendations.\n<br>\n<br>Numbers on a page are nothing without action on the back of them, and here you get a detailed breakdown of the recommended measures, costs, savings and how much each measure will improve the property’s energy efficiency rating. \n<br>\n<br>Not only that; they are shown in order of importance, and the energy efficiency improvements figures are based on doing the improvements in that order. Of course, you might not be able to do them all, or in the order listed, but it’s a good guide.\n<br>\n<br>The number of recommended measures will vary, depending on which ones the property is applicable for. This home’s first priority is wall insulation, and if the homeowner is really committed to bringing the rating up to B, the checklist ends with the installation of solar PV panels.",
+          "text": "The recommendations are the most important section of the EPC. Here you see a breakdown of the recommended measures, the cost to install, the typical savings per year and energy and environmental rating that you would achieve after the improvements.\n<br>\n<br>They are listed in order of importance, and the figures are based on doing the improvements in that order. You may not be able to do them all, or in the order listed, but it’s gives you a good guide. \n<br>\n<br>The amount of recommended measures will vary, depending on what is applicable for your home.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1542,7 +1619,7 @@
             }
           },
           "title": "Improvements explained",
-          "text": "LAURA!!!! NEED SOME TEXT TO FILL THIS OUT!!!",
+          "text": "This section gives more detailed information on the recommended measures which is useful when deciding which to install. \n<br>\n<br>The lower cost measures that can be easy to install would be the best place to start. This section gives advice on the depth of loft insulation required to significantly reduce heat loss thereby improving comfort levels, reduce energy use and lower fuel bills.\n<br>\n<br>Installing low energy lighting reduces lighting costs as they last 12 times longer than ordinary bulbs.\n<br>\n<br>Both these measures can be done as DIY projects and are relatively cheap to install.\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1603,7 +1680,7 @@
             }
           },
           "title": "Alternative measures",
-          "text": "The next section lists other measures that can improve the energy efficiency of the property. Although there is less information about potential costs and savings, these alternatives can be something to look into instead of (or on top of) the recommended measures. Definitely a part of the EPC for the curious and creative sorts. \n<br>\n<br>This home, for example, could benefit from innovative heating technologies like an air source heat pump (ASHP) or a ground source heat pump (GSHP).&nbsp;",
+          "text": "This section also gives further details on the measures that could deliver higher energy efficiency in your home.\n<br>\n<br>Solar PV Panels and solar water heating significantly reduced demand on the heating system to reduce fuel and save money. They are more expensive to install however the savings that can be achieved are shown in the recommendations panel and there are government loans that can be applied for to help to install these measures.\n<br>\n<br>This section shows other energy efficiency measures that could delivers even higher standards for the home. They are alternatives to investigate on top of the recommended measures. It can shows innovative technologies like wind turbines, ground source heap pumps and air source heat pumps.\n<br>\n<br> For more information please see the link <a href=\"http://www.energysavingtrust.org.uk/scotland/grants-loans/renewables/loan-scheme\" target=\"_blank\">http://www.energysavingtrust.org.uk/scotland/grants-loans/renewables/loan-scheme</a>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1664,7 +1741,7 @@
             }
           },
           "title": "Page 4 - Assessors information",
-          "text": "The EPC’s final page begins with information about the EPC, the date of assessment and the assessor and their accrediting body.",
+          "text": "The final page of the EPC shows the details of the assessor, the accreditation body, if there is any related party disclosure and the date of the assessment.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1725,86 +1802,8 @@
             }
           },
           "title": "General information",
-          "text": "It winds up with some information about environmental impact. This shows the carbon emissions from the property, compares them to the average, and illustrates how much they could be reduced by making improvements.\n<br>\n<br>You also get current and potential ratings shown on a scale similar to the energy efficiency rating, with higher scores again being better.\n<br>\n<br>This section is of particular value to those interested in sustainability, not just financial savings. Ratings for CO2 emissions can be useful in comparing the impact of different properties, and understanding how much the impact can be reduced.\n<br>\n<br>With greater links between home energy performance and financial services proposed over the coming years, there is ever more reason to cast a close eye over EPCs when you’re searching for the ideal home.",
+          "text": "This section gives you information on buildings impact on the environment. It shows what  carbon dioxide emissions your property produces as opposed to the average household. It shows your current rating of emissions and the potential rating if energy efficiency measures are installed. The CO2 emissions can be reduced further by installing renewable energy sources.\n<br>\n<br>\n<br>With a greater knowledge of climate change and the new regulations and measures being introduced it is important the understand the current environmental impact your property is having to enable you to make the necessary improvements. As well as comfort, improving your energy efficiency measures will give you a better rating, making it more appealing if you wish to sell or rent out your property.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "30px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#cccccc"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-13",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/Domestic%20MEES%20Guide%202018.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD PDF</a>",
-          "title": "LANDLORDS",
-          "text": "<b>LAURA!!!!! NEED TO PUSH TO DOWNLOAD PDF</b><br><b>tHE IMPORTANCE OF LOWER FUEL BILLS FOR TENANTS</b><br><b>CHANGING ENERGY PROVIDERS IS ONLY A SHORT TERM FIX</b><br><b>YADA YADA YADA :)</b>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "30px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#3d8eb9"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-18",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "title": "HOUSE HEALTH CHECK",
-          "text": "LAURA!!!!! NEED TO PUSH ORDINARY HOME OWNERS HERE!!!<br>UPDATE YOUR EPC<br>HAVE YOU HAD UPGRADES<br>LOOKING TO CUT FUEL BILLS<br>YADA YADA YADA :)"
         },
         {
           "_tags": [
@@ -2021,7 +2020,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2283,7 +2282,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2428,7 +2427,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [

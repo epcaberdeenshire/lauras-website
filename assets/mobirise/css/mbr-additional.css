@@ -745,6 +745,29 @@ h6,
 #msg-box5-5 H3 {
   font-size: 30px;
 }
+#msg-box2-1j .mbr-section-title {
+  color: #000000;
+  font-size: 30px;
+}
+#msg-box2-1j .mbr-section-subtitle {
+  color: #000000;
+}
+#msg-box2-1j .mbr-section-subtitle DIV {
+  color: #000000;
+}
+#msg-box2-1j .mbr-section-subtitle SPAN {
+  color: #000000;
+}
+#msg-box2-1k .mbr-section-title {
+  color: #fff;
+  font-size: 30px;
+}
+#msg-box2-1k .mbr-section-subtitle {
+  color: #3d8eb9;
+}
+#msg-box2-1k .mbr-section-subtitle SPAN {
+  color: #ffffff;
+}
 #extHeader12-5 H3 {
   font-size: 30px;
 }
@@ -817,20 +840,29 @@ h6,
 #menu-e .dropdown-item[aria-expanded="true"] {
   color: #7e9b9f!important;
 }
+#extAccordion1-2 H1 {
+  text-align: left;
+}
+#header3-1i .mbr-section-title,
+#header3-1i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1i .mbr-section-title {
+  text-align: left;
+  font-size: 30px;
+}
+#header3-1i .mbr-section-subtitle {
+  text-align: left;
+  color: #000000;
+}
 #content1-3 P {
   font-size: 22px;
 }
-#extFeatures3-5 .mbr-iconfont-features4 {
-  color: #7e9b9f !important;
+#extFeatures4-1g .mbr-iconfont-features4 {
+  color: undefined !important;
 }
-#extFeatures3-5 .wraper {
-  border-color: #7e9b9f !important;
-}
-#extFeatures3-5 P {
-  color: #7e9b9f;
-}
-#extFeatures3-5 B {
-  color: #000000;
+#extFeatures4-1g .wraper {
+  border-color: undefined !important;
 }
 #social-buttons4-h .mbr-section-title,
 #social-buttons4-h .btn-social {
@@ -913,6 +945,9 @@ h6,
 }
 #content5-y P {
   color: #000000;
+}
+#content5-y DIV {
+  font-size: 17px;
 }
 #extFeatures8-13 .feature-title,
 #extFeatures8-13 .description {
@@ -1010,20 +1045,6 @@ h6,
 }
 #msg-box5-1e P {
   text-align: left;
-}
-#msg-box2-13 .mbr-section-title {
-  color: #000000;
-  font-size: 30px;
-}
-#msg-box2-13 .mbr-section-subtitle {
-  color: #cccccc;
-}
-#msg-box2-18 .mbr-section-title {
-  color: #fff;
-  font-size: 30px;
-}
-#msg-box2-18 .mbr-section-subtitle {
-  color: #3d8eb9;
 }
 #social-buttons4-d .mbr-section-title,
 #social-buttons4-d .btn-social {
