@@ -761,9 +761,11 @@ h6,
 #msg-box2-1k .mbr-section-title {
   color: #fff;
   font-size: 30px;
+  text-align: right;
 }
 #msg-box2-1k .mbr-section-subtitle {
   color: #3d8eb9;
+  text-align: right;
 }
 #msg-box2-1k .mbr-section-subtitle SPAN {
   color: #ffffff;

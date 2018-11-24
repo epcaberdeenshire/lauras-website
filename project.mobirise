@@ -340,10 +340,12 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "30px"
+              "font-size": "30px",
+              "text-align": "right"
             },
             ".mbr-section-subtitle": {
-              "color": "#3d8eb9"
+              "color": "#3d8eb9",
+              "text-align": "right"
             },
             ".mbr-section-subtitle SPAN": {
               "color": "#ffffff"
