@@ -745,6 +745,9 @@ h6,
 #msg-box5-5 H3 {
   font-size: 30px;
 }
+#msg-box5-5 P {
+  font-size: 17px;
+}
 #msg-box2-1j .mbr-section-title {
   color: #000000;
   font-size: 30px;
@@ -757,18 +760,6 @@ h6,
 }
 #msg-box2-1j .mbr-section-subtitle SPAN {
   color: #000000;
-}
-#msg-box2-1k .mbr-section-title {
-  color: #fff;
-  font-size: 30px;
-  text-align: right;
-}
-#msg-box2-1k .mbr-section-subtitle {
-  color: #3d8eb9;
-  text-align: right;
-}
-#msg-box2-1k .mbr-section-subtitle SPAN {
-  color: #ffffff;
 }
 #extHeader12-5 H3 {
   font-size: 30px;
