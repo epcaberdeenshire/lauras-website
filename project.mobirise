@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EPC Aberdeenshire",
-    "currentPage": "index.html",
+    "currentPage": "faq.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -135,7 +135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -357,7 +357,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy<br>"
+          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy &nbsp;Phone: 07594 181651 email: info@epcaberdeenshire.co.uk<br>"
         },
         {
           "bgTextP": "ANIMATED TEXT BACKGROUND",
@@ -547,7 +547,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -567,7 +567,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy<br>"
+          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy &nbsp;Phone: 07594 181651 email: info@epcaberdeenshire.co.uk<br>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -731,10 +731,10 @@
               "color": "#e6e6e6"
             }
           },
-          "title1": "Phone<br>01234 123 1234",
+          "title1": "Phone<br>07594 181651",
           "subtitle1": "",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "email\r<div>laura@</div>",
+          "title2": "email\n<div>info@epcaberdeenshire.co.uk</div>",
           "subtitle2": "",
           "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "title3": "Contact form\n<div><a href=\"contact-us.html\" class=\"text-success\">Here</a></div>",
@@ -888,7 +888,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -908,7 +908,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy<br>"
+          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy &nbsp;Phone: 07594 181651 email: info@epcaberdeenshire.co.uk<br>"
         },
         {
           "_styles": {
@@ -1981,7 +1981,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2001,7 +2001,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy<br>"
+          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy &nbsp;Phone: 07594 181651 email: info@epcaberdeenshire.co.uk<br>"
         },
         {
           "_inherit": "social-buttons2",
@@ -2112,7 +2112,7 @@
               "color": "#666666"
             }
           },
-          "title1": "1234 1231234",
+          "title1": "07594 181651",
           "subTitle1": "Ready for offers & cooperation",
           "text1": "Phone: +1 (0) 000 0000 001 </br> Email: youremail@mail.com",
           "media2": {
@@ -2126,7 +2126,7 @@
               "color": "#666666"
             }
           },
-          "title2": "laura@epcaberdeenshire.co.uk",
+          "title2": "info@epcaberdeenshire.co.uk",
           "subTitle2": "Glad to meet new people",
           "text2": "1234 Street Name </br> City AA 99999",
           "form": {
@@ -2243,7 +2243,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2263,7 +2263,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy<br>"
+          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy &nbsp;Phone: 07594 181651 email: info@epcaberdeenshire.co.uk<br>"
         },
         {
           "_inherit": "social-buttons2",
@@ -2388,7 +2388,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EPC Aberdeenshire<br>1234 1231234</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"epc-explained.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EPC's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"epc-explained.html\">EPC Explained</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspection-checklist.html\" aria-expanded=\"false\">Pre Visit Checklist</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"book-a-visit.html\">BOOK A VISIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#header3-1i\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extHeader12-5\" aria-expanded=\"false\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-us.html\" aria-expanded=\"false\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2408,7 +2408,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy<br>"
+          "text": "Copyright (c) 2018 EPC Aberdeenshire&nbsp; &nbsp; &nbsp; &nbsp;Privacy Policy &nbsp;Phone: 07594 181651 email: info@epcaberdeenshire.co.uk<br>"
         },
         {
           "_styles": {
